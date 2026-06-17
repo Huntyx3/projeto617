@@ -1,5 +1,13 @@
 # projeto617
 
+## Título
+
+* nome do projeto: ```projeto 617```
+
+## Projeto publicado
+
+(link do GitHub Pages)
+
 ## Descrição
 
 Projeto de grupo da UC00617 - Git e GitHub.
