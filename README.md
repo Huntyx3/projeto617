@@ -6,7 +6,7 @@
 
 ## Projeto publicado
 
-(link do GitHub Pages)
+[Link do site no GitHub Pages](https://huntyx3.github.io/projeto617/)
 
 ## Descrição
 
@@ -26,7 +26,7 @@ O foco do projeto foi praticar Git, GitHub, branches, commits, Pull Requests e c
 
 * index.html
 > Contém links para as páginas pessoais e uma breve apresentação da equipa.
-* Uma página pessoal por membro (membro-nome.html)
+* Uma página pessoal por membro
 > Contém uma breve apresentação.
 
 ## Trabalho realizado
